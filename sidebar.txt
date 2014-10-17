@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[soe:home|Door43 (soe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-soe|d43-soe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-soe/archive/master.zip|d43-soe.zip]]
+
+**Recent Changes**
+{{changes>ns = soe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/soe|Ethnologue data]]
+
